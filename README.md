@@ -16,7 +16,7 @@ In the dataset Young People Survey (https://www.kaggle.com/miroslavsabo/young-pe
 
 - [Introduction](#introduction)
 - [Preprocessing](#preprocessing)
-- [Models Used](#models used)
+- [Models Used](#models-used)
 - [Evaluation Metrics Used](#evaluation-metrics-used)
 - [Results](#results)
 
