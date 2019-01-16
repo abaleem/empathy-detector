@@ -1,4 +1,8 @@
-# empathy-detector
+# Empathy Detector
+![empathy-intro](https://miro.medium.com/max/1034/1*upSrofhfVQzTjdXoZBwuzw.jpeg)
+by Abdullah Aleem
+
+
 Detecting empathy in people based on their profile
 
 please download the data from:
