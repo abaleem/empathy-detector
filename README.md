@@ -9,7 +9,7 @@ for CS 412 Intro to Machine Learning (UIC)
 ## Introduction
 The task was to predict how	suitable a person is to volunteer at a non-profit organization working with	Alzheimer’s patients.
 
-The dataset was Young People Survey (https://www.kaggle.com/miroslavsabo/young-people-survey/). In the dataset people had rated different music genre, school subjects and answered questions about their fears, smoking habits, alcohol consumption, number of siblings etc.
+In the dataset Young People Survey (https://www.kaggle.com/miroslavsabo/young-people-survey/) people had rated different music genre, school subjects and answered questions about their fears, smoking habits, alcohol consumption, number of siblings etc.
 
 
 ## Table of Contents
