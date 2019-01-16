@@ -1,7 +1,13 @@
 # Empathy Detector
-![empathy-intro](https://miro.medium.com/max/1034/1*upSrofhfVQzTjdXoZBwuzw.jpeg)
-by Abdullah Aleem
+![empathy-intro](http://blogs.jpmsonline.com/wp-content/uploads/2018/03/EmpathicDoctor.jpg)
 
+by Abdullah Aleem
+for CS 412 Intro to Machine Learning (UIC)
+
+---
+
+The model was developed to predict how	suitable a	person is to be a volunteer at a non-profit organization working with	Alzheimer’s	
+patients.
 
 Detecting empathy in people based on their profile
 
