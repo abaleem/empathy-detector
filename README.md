@@ -14,11 +14,11 @@ In the dataset Young People Survey (https://www.kaggle.com/miroslavsabo/young-pe
 
 ## Table of Contents
 
-- Introduction (#introduction)
-- Preprocessing (#preprocessing)
-- Models Used (#models used)
-- Evaluation Metrics Used (#evaluation-metrics-used)
-- Results (#results)
+- [Introduction](#introduction)
+- [Preprocessing](#preprocessing)
+- [Models Used](#models used)
+- [Evaluation Metrics Used](#evaluation-metrics-used)
+- [Results](#results)
 
 ## Preprocessing
 - Encoded the object/strings type to categorical data so it would be similar to other rows.
