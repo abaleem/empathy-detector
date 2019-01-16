@@ -2,7 +2,7 @@
 ![empathy-intro](http://blogs.jpmsonline.com/wp-content/uploads/2018/03/EmpathicDoctor.jpg)
 
 by Abdullah Aleem </br>
-for CS 412 Intro to Machine Learning (UIC)
+Univeristy of Illinos at Chicago (CS 412 Intro to ML)
 
 ---
 
