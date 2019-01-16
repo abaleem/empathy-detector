@@ -1,7 +1,7 @@
 # Empathy Detector
 ![empathy-intro](http://blogs.jpmsonline.com/wp-content/uploads/2018/03/EmpathicDoctor.jpg)
 
-by Abdullah Aleem
+by Abdullah Aleem </br>
 for CS 412 Intro to Machine Learning (UIC)
 
 ---
