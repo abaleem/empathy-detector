@@ -35,13 +35,6 @@ I chose SVM with RBF kernel. I tried multiple linear models to eventually come u
 
 I used a combination of 10fold cross validation accuracy, recall, and precision as metrics to evaluate the best classifier. It’s important to get high recall as we don’t want misclassify empathic persons. At the same time we want to achieve maximum accuracy to ensure our model is doing capable to classify. For tuning hyper parameters I split data in training and validation and optimized my model. 
 
-For comparison I used 
-- Random
-- Predict mode 
-- Decision tree 
-- KNN
-- Naïve Bayes 
-- Random Forest 
 
 ## Results
 
