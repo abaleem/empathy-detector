@@ -6,11 +6,6 @@ Univeristy of Illinos at Chicago (CS 412 Intro to ML)
 
 ---
 
-## Introduction
-The task was to predict how	suitable a person is to volunteer at a non-profit organization working with	Alzheimer’s patients.
-
-In the dataset Young People Survey (https://www.kaggle.com/miroslavsabo/young-people-survey/) people had rated different music genre, school subjects and answered questions about their fears, smoking habits, alcohol consumption, number of siblings etc.
-
 
 ## Table of Contents
 
@@ -19,6 +14,12 @@ In the dataset Young People Survey (https://www.kaggle.com/miroslavsabo/young-pe
 - [Models Used](#models-used)
 - [Evaluation Metrics Used](#evaluation-metrics-used)
 - [Results](#results)
+
+## Introduction
+The task was to predict how	suitable a person is to volunteer at a non-profit organization working with	Alzheimer’s patients.
+
+In the Young People Survey (https://www.kaggle.com/miroslavsabo/young-people-survey/), people have answered questions about their music taste, school subjects, smoking habits, alcohol consumption, fears, number of siblings etc.
+
 
 ## Preprocessing
 - Encoded the object/strings type to categorical data so it would be similar to other rows.
