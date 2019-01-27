@@ -9,6 +9,8 @@ In the Young People Survey (https://www.kaggle.com/miroslavsabo/young-people-sur
 by Abdullah Aleem <br>
 Univeristy of Illinos at Chicago (CS 412 Intro to ML)
 
+Please see the complete empathypredictor notebook or [click here](https://github.com/abaleem/empathy-detector/blob/master/empathypredictor.ipynb)
+
 ---
 
 **Table of Contents**
