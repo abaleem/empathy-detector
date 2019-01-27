@@ -45,3 +45,4 @@ Univeristy of Illinos at Chicago (CS 412 Intro to ML)
 * **Further Analysis**
     * Final Remarks
     
+Please see the complete notebook 'empathypredictor.ipynb' or [Click Here](https://github.com/abaleem/empathy-detector/blob/master/empathypredictor.ipynb)
