@@ -2,7 +2,7 @@
 
 Short-listing volunteers, to work with alzheimer's patients, for a non-profit organization. <br>
 
-Please see the complete 'empathypredictor' notebook or [Click Here](https://github.com/abaleem/empathy-detector/blob/master/empathypredictor.ipynb)
+Please see the complete notebook at 'empathypredictor.ipynb' or [Click Here](https://github.com/abaleem/empathy-detector/blob/master/empathypredictor.ipynb)
 
 ![empathy](cover.jpg "Can we predict empathy?")
 
