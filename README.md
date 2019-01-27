@@ -2,6 +2,8 @@
 
 Short-listing volunteers, to work with alzheimer's patients, for a non-profit organization. <br>
 
+Please see the complete 'empathypredictor' notebook or [Click Here](https://github.com/abaleem/empathy-detector/blob/master/empathypredictor.ipynb)
+
 ![empathy](cover.jpg "Can we predict empathy?")
 
 In the Young People Survey (https://www.kaggle.com/miroslavsabo/young-people-survey/), people have answered questions about their music taste, school subjects, smoking habits, alcohol consumption, fears, number of siblings etc.
@@ -9,7 +11,6 @@ In the Young People Survey (https://www.kaggle.com/miroslavsabo/young-people-sur
 by Abdullah Aleem <br>
 Univeristy of Illinos at Chicago (CS 412 Intro to ML)
 
-Please see the complete empathypredictor notebook or [click here](https://github.com/abaleem/empathy-detector/blob/master/empathypredictor.ipynb)
 
 ---
 
