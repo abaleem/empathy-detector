@@ -2,12 +2,13 @@
 
 Short-listing volunteers, to work with alzheimer's patients, for a non-profit organization. <br>
 
-![empathy](empathy.jpg "Can we predict empathy?")
+![empathy](cover.jpg "Can we predict empathy?")
 
 In the Young People Survey (https://www.kaggle.com/miroslavsabo/young-people-survey/), people have answered questions about their music taste, school subjects, smoking habits, alcohol consumption, fears, number of siblings etc.
 
 by Abdullah Aleem <br>
 Univeristy of Illinos at Chicago (CS 412 Intro to ML)
+
 ---
 
 **Table of Contents**
