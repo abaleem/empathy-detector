@@ -6,7 +6,7 @@ Please see the complete notebook 'empathypredictor.ipynb' or [Click Here](https:
 
 ![empathy](cover.jpg "Can we predict empathy?")
 
-In the Young People Survey (https://www.kaggle.com/miroslavsabo/young-people-survey/), people have answered questions about their music taste, school subjects, smoking habits, alcohol consumption, fears, number of siblings etc.
+In the Young People Survey (https://www.kaggle.com/miroslavsabo/young-people-survey/), people answered questions about their music taste, school subjects, smoking habits, alcohol consumption, fears, number of siblings etc. I played with this data to see if it was possible to classify people based on empathy.
 
 by Abdullah Aleem <br>
 Univeristy of Illinos at Chicago (CS 412 Intro to ML)
